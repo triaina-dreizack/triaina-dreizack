@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @triaina-dreizack
+- 👀 I’m interested in providing solutions for problems faced by MSME in India, And help them digitize their worksace.
+- 🌱 I’m currently learning Mobile Development
+- 💞️ I’m looking to collaborate on Low Code/ No Code solutions 
+- 📫 Reach me at dreizack.triaina@gmail.com
